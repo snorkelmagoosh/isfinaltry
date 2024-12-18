@@ -1,0 +1,15 @@
+img{
+    border: 8px rgb(210, 99, 47);
+    display: block;
+    margin: 0 auto;
+}
+.bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100%;
+}
